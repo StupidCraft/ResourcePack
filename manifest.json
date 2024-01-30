@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "The resource pack that is included and integrated with StupidCraft.net.",
+      "name": "StupidCraft's Resource Pack",
+      "uuid":"a5690adc-3986-4c65-9390-b6c0c6b56d10",
+      "version": [1, 0, 3],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "The resource pack that is included and integrated with StupidCraft.net.",
+        "type": "resources",
+        "uuid": "9ebfe260-6933-4b4e-8652-c8d489af6f6c",
+        "version": [1, 0, 3]
+      }
+    ]
+   }
